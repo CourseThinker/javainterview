@@ -111,19 +111,3 @@ $$
 
 
 总结，为了提升达到最好的性能，我们需要不断的进行性能测试，调整小城池大小，找到最合适的参数来达到提高性能的目的。
-
-> 参考：
->
-> http://javahao123.com/?p=772
->
-> https://cloud.tencent.com/developer/article/1106559
->
-> https://www.cnblogs.com/caishunzhe/p/13056105.html
->
-> https://www.jianshu.com/p/8532ac88ce72
->
-> https://zhuanlan.zhihu.com/p/66929848
->
-> https://www.cnblogs.com/lupeng2010/p/12705795.html
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gitp9zl81ij31bi0hc0vj.jpg)

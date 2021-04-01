@@ -74,6 +74,8 @@
 ## 故障复盘
 [最近线上发生的两个坑爹锅](https://github.com/irwinai/JavaInterview/blob/main/%E6%9C%80%E8%BF%91%E7%BA%BF%E4%B8%8A%E5%8F%91%E7%94%9F%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%9D%91%E7%88%B9%E9%94%85.md)
 
+## 算法
+[3分钟学个算法：链表反转](https://github.com/irwinai/JavaInterview/blob/main/3%E5%88%86%E9%92%9F%E5%AD%A6%E4%B8%AA%E7%AE%97%E6%B3%95%EF%BC%9A%E9%93%BE%E8%A1%A8%E5%8F%8D%E8%BD%AC.md)
 
 ## 场景题
 [面试官：哪些场景会产生OOM？怎么解决？](https://github.com/irwinai/JavaInterview/blob/main/%E9%9D%A2%E8%AF%95%E5%AE%98%EF%BC%9A%E5%93%AA%E4%BA%9B%E5%9C%BA%E6%99%AF%E4%BC%9A%E4%BA%A7%E7%94%9FOOM%EF%BC%9F%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%EF%BC%9F.md)

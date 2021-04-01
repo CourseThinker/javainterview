@@ -129,5 +129,4 @@ public class StackOOM {
 }
 ```
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gith7m1uk6j31bi0hc0vj.jpg)
 

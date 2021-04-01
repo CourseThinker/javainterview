@@ -127,15 +127,3 @@ Linux2.4内核版本之后对`sendfile`做了进一步优化，通过引入新�
 `sendfile+DMA gather`方式产生2次DMA拷贝，没有CPU拷贝，而且也只有2次上下文切换。虽然极大地提升了性能，但是需要依赖新的硬件设备支持。
 
 
-
->参考：
->
->https://juejin.cn/post/6844903949359644680#heading-19
->
->https://www.cnblogs.com/xiaolincoding/p/13719610.html
->
->https://time.geekbang.org/column/article/118657
->
->https://www.toutiao.com/i6898240850917114380/
-
-

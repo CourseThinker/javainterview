@@ -308,6 +308,5 @@ public class TaskExecutor {
 
 ### 13. 那主从的延迟怎么解决呢？
 
-这个问题貌似真的是个无解的问题，只能是说自己来判断了，需要走主库的强制走主库查询。
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gizotp36yej31bi0hc0vj.jpg)
+1. 针对特定的业务场景，读写请求都强制走主库
+2. 读请求走从库，如果没有数据，去主库做二次查询

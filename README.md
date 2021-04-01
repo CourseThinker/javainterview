@@ -55,6 +55,7 @@
 [《我想进大厂》之网络篇夺命连环12问](https://github.com/irwinai/JavaInterview/blob/main/%E3%80%8A%E6%88%91%E6%83%B3%E8%BF%9B%E5%A4%A7%E5%8E%82%E3%80%8B%E4%B9%8B%E7%BD%91%E7%BB%9C%E7%AF%87%E5%A4%BA%E5%91%BD%E8%BF%9E%E7%8E%AF12%E9%97%AE.md)
 
 ## Linux
+[《我想进大厂》之Linux系列](https://github.com/irwinai/JavaInterview/blob/main/%E3%80%8A%E6%88%91%E6%83%B3%E8%BF%9B%E5%A4%A7%E5%8E%82%E3%80%8B%E4%B9%8BLinux%E7%B3%BB%E5%88%97.md)
 
 ## 分布式
 [《我想进大厂》之分布式锁夺命连环9问](https://github.com/irwinai/JavaInterview/blob/main/%E3%80%8A%E6%88%91%E6%83%B3%E8%BF%9B%E5%A4%A7%E5%8E%82%E3%80%8B%E4%B9%8B%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%A4%BA%E5%91%BD%E8%BF%9E%E7%8E%AF9%E9%97%AE%20%7C%20%E5%A4%A7%E7%90%86%E7%89%88%E4%BA%BA%E5%9C%A8%E5%9B%A7%E9%80%94.md)

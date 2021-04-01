@@ -43,6 +43,8 @@
 
 [百亿级数据分表后怎么分页查询？](https://github.com/irwinai/JavaInterview/blob/main/%E7%99%BE%E4%BA%BF%E7%BA%A7%E6%95%B0%E6%8D%AE%E5%88%86%E8%A1%A8%E5%90%8E%E6%80%8E%E4%B9%88%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2%EF%BC%9F.md)
 
+[面试官：数据库自增ID用完了会怎么样？](https://github.com/irwinai/JavaInterview/blob/main/%E9%9D%A2%E8%AF%95%E5%AE%98%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%BA%93%E8%87%AA%E5%A2%9EID%E7%94%A8%E5%AE%8C%E4%BA%86%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.md)
+
 ## Spring
 [《我想进大厂》之Spring夺命连环10问](https://github.com/irwinai/JavaInterview/blob/main/%E3%80%8A%E6%88%91%E6%83%B3%E8%BF%9B%E5%A4%A7%E5%8E%82%E3%80%8B%E4%B9%8BSpring%E5%A4%BA%E5%91%BD%E8%BF%9E%E7%8E%AF10%E9%97%AE.md)
 

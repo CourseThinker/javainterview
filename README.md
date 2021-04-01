@@ -16,6 +16,8 @@
 
 [没有返回值的构造函数是怎么完成赋值的？](https://github.com/irwinai/JavaInterview/blob/main/%E6%B2%A1%E6%9C%89%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%8C%E6%88%90%E8%B5%8B%E5%80%BC%E7%9A%84%EF%BC%9F.md)
 
+[阿里二面：什么是mmap？](https://github.com/irwinai/JavaInterview/blob/main/%20%E9%98%BF%E9%87%8C%E4%BA%8C%E9%9D%A2%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AFmmap%EF%BC%9F%20.md)
+
 
 
 ## Redis
